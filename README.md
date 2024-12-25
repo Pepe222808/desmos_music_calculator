@@ -17,6 +17,7 @@ It should look something like this:
 7. to play the song turn on the sound at the top and press play on the slider
    
 ![image](https://github.com/user-attachments/assets/0268efc9-86ba-402d-876d-09e9e5bacc6a)
+
 ![image](https://github.com/user-attachments/assets/c4e2653a-213a-4727-8adb-3e6f5a3dc04a)
 
 
