@@ -5,7 +5,7 @@ To create a song just copy and paste console output in different lines in desmos
 It should look something like this:
 ![image](https://github.com/user-attachments/assets/1850569b-dcdb-4397-894b-bd5557bc96aa)
 
-1. the braces of the sounds definition (f(x) = ...) may be pasted in wrong places so you just have to fix it yourself by putting one after the first "=" sign and one ath the end after removing the last comma.
+1. the braces of the sounds definition (f(x) = ...) may be pasted in wrong places so you just have to fix it yourself by putting one after the first "=" sign and one at the end after removing the last comma.
 2. then you have to fill both of the spotted places in lists of elements (a[...]) by putting any variable as a slider
    
 ![image](https://github.com/user-attachments/assets/a7b585d9-f27a-4510-8915-3b74bb7fb050)
@@ -23,7 +23,6 @@ It should look something like this:
 ![image](https://github.com/user-attachments/assets/0268efc9-86ba-402d-876d-09e9e5bacc6a)
 
 ![image](https://github.com/user-attachments/assets/c4e2653a-213a-4727-8adb-3e6f5a3dc04a)
-
 
 
 If the song is too long just make multiple sliders and divide the lenght of the list in equal parts but set next sliders from 0 to the divided lenght of the song
