@@ -3,10 +3,14 @@ A calculator that takes notes in letter notation and outputs input for desmos to
 
 To create a song just copy and paste console output in different lines in desmos
 It should look something like this:
-![image](https://github.com/user-attachments/assets/a20b3017-03d4-44d5-80a0-8debef6c6c84)
+![image](https://github.com/user-attachments/assets/1850569b-dcdb-4397-894b-bd5557bc96aa)
+
 1. the braces of the sounds definition (f(x) = ...) may be pasted in wrong places so you just have to fix it yourself by putting one after the first "=" sign and one ath the end after removing the last comma.
-2. then you have to fill the spotted places in lists of elements (a[...]) by putting any variable as a slider
-3. then set this variable to values from 1 to the last element of the list (the number that is returned in the console) with a step of 1 for example like this:
+2. then you have to fill both of the spotted places in lists of elements (a[...]) by putting any variable as a slider
+   
+![image](https://github.com/user-attachments/assets/a7b585d9-f27a-4510-8915-3b74bb7fb050)
+
+4. then set this variable to values from 1 to the last element of the list (the number that is returned in the console) with a step of 1 for example like this:
 
 ![image](https://github.com/user-attachments/assets/d0f2fd08-3954-4b21-b807-44a8ee9e83ec)
 
