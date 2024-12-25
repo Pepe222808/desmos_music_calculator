@@ -26,7 +26,7 @@ It should look something like this:
 
 
 
-If the song is too long just make multiple sliders and divide the lenght of the list in equal parts but set next slider from 0 to the length of one part of the song
+If the song is too long just make multiple sliders and divide the lenght of the list in equal parts but set next sliders from 0 to the divided lenght of the song
 
 ![image](https://github.com/user-attachments/assets/4496fc71-a127-479a-a504-d5d2e123ed00)
 
