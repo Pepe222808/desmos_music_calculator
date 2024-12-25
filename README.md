@@ -6,18 +6,21 @@ It should look something like this:
 ![image](https://github.com/user-attachments/assets/a20b3017-03d4-44d5-80a0-8debef6c6c84)
 1. the braces of the sounds definition (f(x) = ...) may be pasted in wrong places so you just have to fix it yourself by putting one after the "=" sign and one ath the end after removing the last comma.
 2. then you have to fill the spotted places in lists of elements (a[...]) by putting any variable as a slider
-3. then set this variable to values from 1 to the last element of the list (the number that is returned in the console) with a step of 1 for example like this
+3. then set this variable to values from 1 to the last element of the list (the number that is returned in the console) with a step of 1 for example like this:
+
 ![image](https://github.com/user-attachments/assets/d0f2fd08-3954-4b21-b807-44a8ee9e83ec)
-4. then just edit the speed by pressing the arrows under the play button of this slider
+
+5. then just edit the speed by pressing the arrows under the play button of this slider
+
 ![image](https://github.com/user-attachments/assets/f1d62b3c-542b-4032-aa05-31084dc2efaa)
-5. to play the song turn on the sound at the top and press play on the slider
+
+7. to play the song turn on the sound at the top and press play on the slider
+   
 ![image](https://github.com/user-attachments/assets/0268efc9-86ba-402d-876d-09e9e5bacc6a)
 ![image](https://github.com/user-attachments/assets/c4e2653a-213a-4727-8adb-3e6f5a3dc04a)
 
+
+
 If the song is too long just make multiple sliders and divide the lenght of the list in equal parts but set next slider from 0 to the length of one part of the song
 ![image](https://github.com/user-attachments/assets/4496fc71-a127-479a-a504-d5d2e123ed00)
-
-
-
-
 
